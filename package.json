@@ -1,0 +1,25 @@
+{
+  "name": "node-todo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "commander": "^6.2.0",
+    "inquirer": "^7.3.3",
+    "winston": "^3.3.3"
+  }
+}
