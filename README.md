@@ -1,4 +1,6 @@
 #### node-todo
+命令行 TODO 应用
+
 ##### Dev
 - npm i
 - `npm start` or `node cli.js`     // to show all task
